@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class Node {
+public class Node {
+    int deger;
+    Node sonraki;
+    public  Node(int bilgi)
+    {
+        deger=bilgi;
+    }
 }
