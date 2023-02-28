@@ -2,7 +2,7 @@
 <h3>What is a Circular Linked List?</h3>
 <hr>
 <pre>A circular linked list is a data structure where data is arranged in interconnected loops or rings. <br>
-Each loop represents a data element, and the last element is connected to the first element to form a circular list</pre>
+Each loop represents a data element, and the last element is connected to the first element to form a circular list.</pre>
 <pre>
 <p>Circular linked lists can be used in various programming problems.
 <br>For example, they can be used to implement a stack with various data structures. 
